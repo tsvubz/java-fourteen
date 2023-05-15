@@ -1,0 +1,21 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  border-style: solid;
+  border-width: 0;
+  padding: 15px 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+.add-button {
+  background-color: blue;
+  color: white;
+}
+.delete-button {
+  background-color: red;
+  
+}
